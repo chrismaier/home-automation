@@ -1,0 +1,8 @@
+SmartThings
+
+
+
+No internet, no control of devices
+#deal-breaker
+
+Not sure I'm a fan of the "no local control" option for the SmartThings device.

@@ -1,0 +1,37 @@
+Home Automation
+
+
+Where to start...
+
+How to turn an 80 dollar Destiny 2 Ghost into a 2,000 dollar home automation system.
+
+
+
+Automation protocols:
+
+Z-Wave
+ZigBee
+X10
+Insteon (X10 compatible)
+WiFi
+Bluetooth
+Apple Homekit (of course Apple has their own...)
+
+
+https://www.electronichouse.com/smart-home/home-automation-protocols-what-technology-is-right-for-you/
+
+
+
+
+Alexa has only one built in automation hub and it uses ZigBee. If you want to connect other systems, you will need one of those systems hubs and the accompanying Alexa skill.
+
+
+
+SmartThings
+
+
+Samsung - requires an account.
+Alexa functioning requires account linking
+Not sure if this is a down-and-up round trip connectivity or what (Alexa -> internet API -> Samsung -> your home device)
+
+On the plus side, devices discovered by using the Samsung home automation app can are automatically populated into Alexa.
